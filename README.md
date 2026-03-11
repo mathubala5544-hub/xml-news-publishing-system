@@ -29,4 +29,4 @@ Password: admin123
 
 Open Browser:
 
-http://localhost:8080/news-system/login.jsp
+https://news-publishing-system.onrender.com
